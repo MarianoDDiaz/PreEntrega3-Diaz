@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "nombre": "Borcego",
+      "precio": 25000,
+      "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/598/845/products/new-vancouver-311-machiatto-copia1-015f733136bc4e6e5216244051662592-1024-1024.webp",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Bota",
+      "precio": 20000,
+      "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/598/845/products/b5-negro_011-cbfc36e18d75f53a5c15290128448642-1024-1024.webp",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Mocasin",
+      "precio": 15000,
+      "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/598/845/products/019-marron_011-c461be3fefc698080f16378660742513-1024-1024.webp",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Zapato",
+      "precio": 13000,
+      "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/598/845/products/ramiro_011-0107ffb64cc1f1b47016833187829243-1024-1024.webp",
+      "cantidad": 1
+    }
+  ]
+
+  
